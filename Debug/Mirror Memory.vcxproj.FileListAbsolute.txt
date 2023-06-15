@@ -1,0 +1,10 @@
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\Debug\Mirror Memory.vcxproj.AssemblyReference.cache
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\Debug\Mirror Memory.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\Debug\MirrorMemory.Level 1.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\Debug\MirrorMemory.Level 2.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\Debug\MirrorMemory.Level 3.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\Debug\MirrorMemory.Register.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\Debug\MirrorMemory.Sign in.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\Debug\MirrorMemory.Start.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\Debug\Mirror Memory.vcxproj.GenerateResource.cache
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\Debug\Mirror Memory.exe

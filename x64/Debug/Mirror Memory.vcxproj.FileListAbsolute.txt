@@ -1,0 +1,20 @@
+D:\Moshir\Mirror Memory\x64\Debug\Mirror Memory.vcxproj.AssemblyReference.cache
+D:\Moshir\Mirror Memory\x64\Debug\Mirror Memory.vcxproj.SuggestedBindingRedirects.cache
+D:\Moshir\Mirror Memory\x64\Debug\MirrorMemory.Level 2.resources
+D:\Moshir\Mirror Memory\x64\Debug\MirrorMemory.Level 3.resources
+D:\Moshir\Mirror Memory\x64\Debug\MirrorMemory.Register.resources
+D:\Moshir\Mirror Memory\x64\Debug\MirrorMemory.Sign in.resources
+D:\Moshir\Mirror Memory\x64\Debug\Mirror Memory.vcxproj.GenerateResource.cache
+D:\Moshir\Mirror Memory\x64\Debug\Mirror Memory.exe
+D:\Moshir\Mirror Memory\x64\Debug\MirrorMemory.Start.resources
+D:\Moshir\Mirror Memory\x64\Debug\MirrorMemory.Level 1.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\x64\Debug\Mirror Memory.vcxproj.AssemblyReference.cache
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\x64\Debug\Mirror Memory.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\x64\Debug\MirrorMemory.Level 1.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\x64\Debug\MirrorMemory.Level 2.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\x64\Debug\MirrorMemory.Level 3.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\x64\Debug\MirrorMemory.Register.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\x64\Debug\MirrorMemory.Sign in.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\x64\Debug\MirrorMemory.Start.resources
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\x64\Debug\Mirror Memory.vcxproj.GenerateResource.cache
+C:\Users\misho\OneDrive\Desktop\Mirror Memory\x64\Debug\Mirror Memory.exe
